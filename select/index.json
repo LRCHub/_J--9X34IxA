@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Blue Velvet",
+  "base_artist": "工藤静香",
+  "createdAt": "2025-12-01T16:52:21.862586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Blue_Velvet_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "070 Shake",
+      "has_synced": true,
+      "path": "select/02_Blue_Velvet_070_Shake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/03_Blue_Velvet_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Velvet (Single Version)",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/04_Blue_Velvet_(Single_Version)_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/05_Blue_Velvet_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/06_Blue_Velvet_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/07_Blue_Velvet_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/08_Blue_Velvet_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Thornhill",
+      "has_synced": true,
+      "path": "select/09_Blue_Velvet_Thornhill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/10_Blue_Velvet_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/11_Blue_Velvet_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Tony Bennett feat. Maria Gadú",
+      "has_synced": false,
+      "path": "select/12_Blue_Velvet_Tony_Bennett_feat._Maria_Gadú.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "Tony Bennett & Maria Gadu",
+      "has_synced": false,
+      "path": "select/13_Blue_Velvet_Tony_Bennett_&_Maria_Gadu.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blue Velvet",
+      "artist": "The Clovers",
+      "has_synced": false,
+      "path": "select/14_Blue_Velvet_The_Clovers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blue Velvet (Blue Velvet)",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/15_Blue_Velvet_(Blue_Velvet)_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blue Velvet",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Blue_Velvet_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blue Velvet",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_02_Blue_Velvet_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Blue Velvet",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_03_Blue_Velvet_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Blue Velvet",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_04_Blue_Velvet_倖田_來未.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Blue Velvet",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_05_Blue_Velvet_倖田_來未.txt"
+    }
+  ]
+}
